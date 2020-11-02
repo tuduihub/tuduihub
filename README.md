@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+想入门，可不知道哪个教程好？
+大佬推荐的教程，又太晦涩难懂？
+
+看这里，土堆教程
+更好的教程+鬼才般的编排方式+你的加入=打通你的任督二脉
+
 <!--
 **tuduihub/tuduihub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
